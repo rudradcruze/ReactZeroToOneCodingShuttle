@@ -29,6 +29,35 @@
 
 ---
 
+## [Week 2 - Introduction to React](./Week%202%20-%20Introduction%20to%20React/)
+
+### Resources & Schedule
+
+| SL   | Name of Lecture                                                                                                                       |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 2.1  | [2.1 Setup a React Project using Vite](./Week%202%20-%20Introduction%20to%20React/2.1_Setup_a_React_Project_using_Vite.pdf)           |
+| 2.2  | [2.2 Mastering JSX Syntax](./Week%202%20-%20Introduction%20to%20React/2.2_Mastering_JSX_Syntax.pdf)                                   |
+| 2.3  | [2.3 Let's build a Mini Project in React](./Week%202%20-%20Introduction%20to%20React/2.3_Let's_build_a_Mini_Project_in_React.pdf)     |
+| 2.4  | 2.4 Understanding React Components                                                                                                    |
+| 2.5  | [2.5 Understanding React Props](./Week%202%20-%20Introduction%20to%20React/2.5_Understanding_React_Props.pdf)                         |
+| 2.6  | [2.6 Rendering List in React](./Week%202%20-%20Introduction%20to%20React/2.6_Rendering_List_in_React.pdf)                             |
+| 2.7  | [2.7 Internal working of React](./Week%202%20-%20Introduction%20to%20React/2.7_Internal_working_of_React.pdf)                         |
+| 2.8  | [2.8 What is Vite?](./Week%202%20-%20Introduction%20to%20React/2.8_What_is_Vite.pdf)                                                  |
+| 2.9  | [2.9 Introduction to Tailwind CSS Part - 1](./Week%202%20-%20Introduction%20to%20React/2.9_Introduction_to_Tailwind_CSS_Part_1.pdf)   |
+| 2.10 | [2.10 Introduction to Tailwind CSS Part - 2](./Week%202%20-%20Introduction%20to%20React/2.10_Introduction_to_Tailwind_CSS_Part_2.pdf) |
+
+## [Assignments](./Week%202%20-%20Introduction%20to%20React/Assignments/)
+
+1. [Assignment 1 - React Props and List](./Week%202%20-%20Introduction%20to%20React/Assignments/2_w2ReactPropsAssignment.zip)
+
+## [Others Resources](./Week%202%20-%20Introduction%20to%20React/)
+
+-   Complete CSS YouTube Playlist: [link](https://www.youtube.com/watch?v=PVBqZRAOZL8&list=PLhzIaPMgkbxBk9-drEC0MBPqEOXpVlwY4)
+-   Tailwind CSS Project video: [link](https://youtu.be/mGN9-FPsX9o?si=s82OK_D0b1wBRAZp)
+-   Tailwind CSS Playground: [link](https://play.tailwindcss.com/qEHNZPPlFk)
+
+---
+
 ## 🚀 About Me
 
 Tech-savvy designer/programmer pushing boundaries of online tech. Passionate about new tools, seeking challenges to advance skills.
