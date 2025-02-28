@@ -58,6 +58,20 @@
 
 ---
 
+## [Week 3 - React Hooks](./Week%203%20-%20React%20Hooks/)
+
+### Resources & Schedule
+
+| SL  | Name of Lecture                                                                                                                            |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 3.1 | [Responding to Events in React](./Week%203%20-%20Event%20Handling%20&%20React%20State/3.1_Responding_to_Events_in_React.pdf)               |
+| 3.2 | [Introduction to State in React](./Week%203%20-%20Event%20Handling%20&%20React%20State/3.2_Introduction_to_State_in_React.pdf)             |
+| 3.3 | [How does React State works Internally?](./Week%203%20-%20Event%20Handling%20&%20React%20State/3.3_How_does_the_React_State_work.pdf)      |
+| 3.4 | [Sharing State Data Between Components](./Week%203%20-%20Event%20Handling%20&%20React%20State/3.4_Sharing_state_between_components.pdf)    |
+| 3.5 | [Handling Object and Array State in React, Part - 1](./Week%203%20-%20Event%20Handling%20&%20React%20State/3.5_Object_and_Array_State.pdf) |
+| 3.6 | [Handling Object and Array State in React, Part - 2](./Week%203%20-%20Event%20Handling%20&%20React%20State/3.6_Object_and_Array_State.pdf) |
+| 3.7 | Styling the Notes App using Tailwind CSS                                                                                                   |
+
 ## 🚀 About Me
 
 Tech-savvy designer/programmer pushing boundaries of online tech. Passionate about new tools, seeking challenges to advance skills.
