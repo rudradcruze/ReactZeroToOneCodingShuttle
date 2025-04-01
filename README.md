@@ -72,6 +72,21 @@
 | 3.6 | [Handling Object and Array State in React, Part - 2](./Week%203%20-%20Event%20Handling%20&%20React%20State/3.6_Object_and_Array_State.pdf) |
 | 3.7 | Styling the Notes App using Tailwind CSS                                                                                                   |
 
+## [Week 4 - Advanced Forms and Input Validation in React](./Week%204%20-%20Advanced%20Forms%20and%20Input%20Validation%20in%20React/README.md)
+
+### Resources & Schedule
+
+| SL  | Name of Lecture                                                                                                                                                                    |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 4.1 | [Introduction to Forms in React](./Week%204%20-%20Advanced%20Forms%20and%20Input%20Validation%20in%20React/4.1_Introduction_to_React_Forms.pdf)                                    |
+| 4.2 | [React 19 Forms Handling - The useActionState Hook](./Week%204%20-%20Advanced%20Forms%20and%20Input%20Validation%20in%20React/4.2_The_use_Action_State_hook_in_React_19.pdf)       |
+| 4.3 | [Controlled Components vs Uncontrolled Components](./Week%204%20-%20Advanced%20Forms%20and%20Input%20Validation%20in%20React/4.3_Controlled_Components.pdf)                        |
+| 4.4 | [Building Config-based Dynamic Forms in React, Part - 1](./Week%204%20-%20Advanced%20Forms%20and%20Input%20Validation%20in%20React/4.4_Dynamic_Forms_with_Configuration.pdf)       |
+| 4.5 | [Building Config-based Dynamic Forms in React, Part - 2](./Week%204%20-%20Advanced%20Forms%20and%20Input%20Validation%20in%20React/4.5_Dynamic_Forms_with_Configuration.pdf)       |
+| 4.6 | Input Form Validation without Any Library                                                                                                                                          |
+| 4.7 | [Using Zod Library for Form Validation](./Week%204%20-%20Advanced%20Forms%20and%20Input%20Validation%20in%20React/4.7_Using_Zod_for_Form_Validation.pdf)                           |
+| 4.8 | [Using React-hook-form Library to Build Industry-ready Forms](./Week%204%20-%20Advanced%20Forms%20and%20Input%20Validation%20in%20React/4.8_Using_the_react_hook_form_Library.pdf) |
+
 ## 🚀 About Me
 
 Tech-savvy designer/programmer pushing boundaries of online tech. Passionate about new tools, seeking challenges to advance skills.
